@@ -4,4 +4,5 @@ Genera un pequeño analizador léxico, que identifique los siguientes tokens (id
 
 Evidencia:
 
-![Ejecución] (C:\Users\goten\Desktop\Universidad\6to Semestre\(L - I ) Semi. Traductores ll)
+
+![Mini-Analizador](https://user-images.githubusercontent.com/84484618/213970674-d7606201-bdc0-472e-bd2d-636b398d5d08.png)
