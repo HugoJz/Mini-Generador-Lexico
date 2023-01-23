@@ -1,0 +1,1 @@
+# Mini-Generador-Lexico
